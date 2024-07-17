@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! Anas ibrahim is Here !</h2>
 <h2 align="right">Web Monster Bb !</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
