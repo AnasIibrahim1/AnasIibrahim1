@@ -1,7 +1,5 @@
 <h2 align="left">Anas Ibrahim - Web Developer 👋 </h2>
-<h2 align="right">Web Monster Bb !</h2>
 <h2>Hello! I'm Anas Ibrahim, also known as Web Monster Bb. I am a passionate web developer proficient in HTML, CSS, JavaScript, and React. I love creating beautiful and functional web experiences. </h2>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -25,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -36,4 +33,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-###
