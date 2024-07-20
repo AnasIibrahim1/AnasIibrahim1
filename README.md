@@ -1,7 +1,6 @@
 ## Hey there 👋, I'm Anas ibrahim(https://https://github.com/AnasIibrahim1/)
 
-[![Linkedin Badge](https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/anas-ibrahim-123a1232c/)
-[![Whatsapp Badge](+201140282532)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 
 ### Glad to see you here!
 
